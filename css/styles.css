@@ -194,8 +194,7 @@ img {
   padding: 120px 0 120px;
 }
 .container-team{
-  padding-top: 32px;
-  padding-bottom: 32px;
+  padding: 32px 0; 
 }
 
 .team-list {
@@ -229,7 +228,7 @@ img {
 }
 
 .team-text {
-  padding: 16px 32px;
+  padding: 32px 0;
   text-align: center;
 }
 
@@ -237,10 +236,7 @@ img {
 .portfolio {
   padding: 120px 0 120px 0;
 } 
-.portfolio-container{
-  padding: 32px 16px 32px 16px;
-  
-}
+
 .portfolio-title {
   padding-top: 120px;
   text-align: center;
@@ -278,9 +274,7 @@ img {
   color: #434455;
 }
 .portfolio-text {
-  padding-top: 32px;
-  padding-left: 16px;
-  padding-bottom: 32px;
+  padding: 32px 16px;
   border-bottom: 1px solid #e7e9fc;
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
