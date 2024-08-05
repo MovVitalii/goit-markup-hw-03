@@ -114,8 +114,6 @@ img {
   color: #fff;
   max-width: 496px;
   margin-bottom: 48px;
-  padding: 188px 0;
-  
 }
 .hero-button {
   background-color: #4d5ae5;
@@ -141,9 +139,7 @@ img {
 .section-values {
   padding: 120px 0 120px 0;
 }
-.values-container{
-  padding: 32px 0 32px;
-}
+
 .section-subtitle {
   text-align: center;
   text-transform: capitalize;
@@ -151,7 +147,6 @@ img {
   line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  padding-top: 120px;
   margin-bottom: 72px;
 }
 
@@ -193,15 +188,11 @@ img {
   background-color: #f4f4fd;
   padding: 120px 0 120px;
 }
-.container-team{
-  padding: 32px 0; 
-}
 
 .team-list {
   display: flex;
   align-items: center;
   gap: 24px;
-  
 }
 
 .team-name {
@@ -232,13 +223,11 @@ img {
   text-align: center;
 }
 
-
 .portfolio {
   padding: 120px 0 120px 0;
-} 
+}
 
 .portfolio-title {
-  padding-top: 120px;
   text-align: center;
   text-transform: capitalize;
   font-size: 36px;
@@ -248,15 +237,13 @@ img {
   margin-bottom: 72px;
 }
 .portfolio-list {
-  
   display: flex;
   gap: 48px 24px;
   flex-wrap: wrap;
-  margin-bottom: 120px;
   align-items: center;
 }
-.portfolio-app{
-  width: calc((100% - 48px) / 3)
+.portfolio-app {
+  width: calc((100% - 48px) / 3);
 }
 
 .portfolio-name {
